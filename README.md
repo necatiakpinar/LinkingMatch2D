@@ -1,4 +1,4 @@
-# Linking Match 2D - Necati Akpınar
+# Linking Match 2D
 
 [English](#english) | [Türkçe](#türkçe)
 
